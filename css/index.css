@@ -8,16 +8,17 @@ html, body {
     top: 0;
     left: 0;
 }
-/*
+/* First thought, will trie something els!
 .container {
     height: 100%;
     background-image: url('../img/Robin\ Aves\ -Landing\ Page.jpg');
     background-repeat: no-repeat;
-    background-position:center;
-    background-size: cover;
+    background-position:center;git
     background-attachment: fixed;
 }
 */
+
+/*----------------------------------------------Nav-Menus*/
 a{
     text-decoration: none;
     color: black;
@@ -30,7 +31,7 @@ a{
     padding: 30px 30px 0 20px;
     box-sizing: border-box;
 }
-
+/*---------------------------------------------------socials*/
 .right-menu {
     list-style: none;
     position: absolute;
@@ -40,7 +41,7 @@ a{
     box-sizing: border-box;
     
 }
-
+/*-------------------------------------------------heading*/
 .index {
     text-align: center;    
     padding-top: 16rem;
