@@ -24,12 +24,11 @@ a{
     color: black;
 }
 .left-menu{
-    box-shadow: black;
     list-style: none;
     position: absolute;
-    padding: 30px 30px 0 20px;
+    padding: 30px 0 0 100px;
     box-sizing: border-box;
-    line-height: 5rem;
+    line-height: 8rem;
 }
 /*---------------------------------------------------socials*/
 .right-menu {
@@ -37,9 +36,9 @@ a{
     position: absolute;
     right: 0;
     top: 0;
-    padding: 30px 30px 0 10px;
+    padding: 30px 100px 0 0px;
     box-sizing: border-box;
-    line-height: 5rem;
+    line-height: 8rem;
 }
 /*-------------------------------------------------heading*/
 .index {
