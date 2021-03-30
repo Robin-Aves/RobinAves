@@ -38,11 +38,10 @@ Build a band/artist website
 
 * Who:
 
-
-1 Rock audience like foofighters and southern style rock.
+1 Originals: Rock audience like Foofighters and southern style rock, grunge, metal-ish music fans. I have other stuff going on as well but this is the genre I usually tend to lean towards
 My own music is very psychological and philosophical so finding some way to hone into those people interested in self-development.
 
-2 Covers, attract new followers and show my diversity as a singer to potential producers and other musicians that would like to hire me for work through Soundbetter.
+2 Covers, attract new followers, and show my diversity as a singer to potential producers and other musicians that would like to hire me for work through Soundbetter.
 
 ## Credits
 I have taken my landing page ideas from the BlackPumas webpage.
