@@ -10,7 +10,7 @@ Started to write a strategic plan for my website and my work as a musician.
 Strategy:
 * First step is to give the user a look at Robin Aves from an artistic perspective. This step is focused on creating a platform to present Robin Aves.
 
-* Second step is to create a platform for other musicians to buy my service as a singer, have an idea of doing that through SoundBetter which is a sight for selling your talent as a musician. From singer to producer and much more. where I will focus on my voice. 
+* Second step is to create a platform for other musicians to buy my service as a singer and studio muscian, have an idea of doing that through SoundBetter which is a sight for selling your talent as a musician. From singer to producer and much more. where I will focus on my voice. 
 
 * Third step is to give an overview of his/my learning process. What am I doing and how, this will probably be a thing that is YouTube focused and not so much on the website itself.
 
