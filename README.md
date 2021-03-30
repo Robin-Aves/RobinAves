@@ -7,13 +7,16 @@ Creating a webpage for myself, foremost as a singer but also as a studio musicia
 
 
 1 I have done a wireframe for the landing page 
+
 2 working in Photoshop to edit the images I have taken to use as my hero-img on the laning page.
+
 3 Started to write a strategic plan for my website and my work as a musician, look at USX - Five Planes futher down.
 
 * To do
 
 
 1 Make a @media for .left-menu and .right-menu so it changes to different screen sizes.
+
 2 Set the fonts - I have imported the fonts to my css file
 
 ### USX - Five Planes
