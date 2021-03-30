@@ -1,7 +1,6 @@
-* {
-    margin: 0;
-    padding: 0;
-}
+
+@import url('https://fonts.googleapis.com/css2?family=Fascinate&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fascinate&family=Russo+One&display=swap');
 
 html, body {
     height: 100%;
@@ -26,7 +25,9 @@ a{
 .left-menu{
     list-style: none;
     position: absolute;
-    padding: 30px 0 0 100px;
+    right: 0;
+    top: 0;
+    padding: 0 58rem 0 2rem;
     box-sizing: border-box;
     line-height: 8rem;
 }
@@ -36,7 +37,7 @@ a{
     position: absolute;
     right: 0;
     top: 0;
-    padding: 30px 100px 0 0px;
+    padding: 0 6rem 0 2rem;
     box-sizing: border-box;
     line-height: 8rem;
 }
