@@ -2,9 +2,14 @@
 
 Creating a webpage for myself, foremost as a singer but also as a studio musician.
 
-## Progress
-At the moment I have just done a wireframe for the landing page, working in Photoshop to edit the images I have taken to use for my website.
-Started to write a strategic plan for my website and my work as a musician.
+## Progress & what to do 
+* Finnished
+1 I have done a wireframe for the landing page 
+2 working in Photoshop to edit the images I have taken to use as my hero-img on the laning page.
+3 Started to write a strategic plan for my website and my work as a musician, look at USX - Five Planes futher down.
+
+2
+Make a @media for .left-menu and .right-menu so it changes to different screen sizes. 
 
 ### USX - Five Planes
 Strategy:
