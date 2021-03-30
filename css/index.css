@@ -24,12 +24,12 @@ a{
     color: black;
 }
 .left-menu{
+    box-shadow: black;
     list-style: none;
     position: absolute;
-    left: 0;
-    top: 0;
     padding: 30px 30px 0 20px;
     box-sizing: border-box;
+    line-height: 5rem;
 }
 /*---------------------------------------------------socials*/
 .right-menu {
@@ -39,10 +39,19 @@ a{
     top: 0;
     padding: 30px 30px 0 10px;
     box-sizing: border-box;
-    
+    line-height: 5rem;
 }
 /*-------------------------------------------------heading*/
 .index {
     text-align: center;    
-    padding-top: 16rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+/*-------------------------------------------------Hero-img*/
+
+.hero-img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
